@@ -12,7 +12,7 @@ function App() {
   },[])
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <h1>The backend is not working</h1>
 
     </div>
   );
